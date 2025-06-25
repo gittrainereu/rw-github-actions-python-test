@@ -1,4 +1,4 @@
-name: Python Tests with Report
+name: xPython Tests with Report
 
 on:
   push:
